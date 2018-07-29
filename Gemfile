@@ -56,3 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Authentication
 gem 'devise', '~> 4.4.3'
+gem 'graphql', '~> 1.8.5'
